@@ -1,6 +1,6 @@
 # kirby-plr-sales-converter
 
-*This skill is part of the [Kirby Skills Collection](https://github.com/markkirby125/kirby-skills-collection).*
+*This skill is part of the [Tiffany Lambert PLR Skills Collection](https://github.com/markkirby125/kirby-skills-tiff-collection).*
 
 Elevates raw, informative PLR ebooks and reports into persuasive, direct-response sales letters and landing pages across 8 specific commercial business models.
 
@@ -24,6 +24,5 @@ Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigrav
 
 ## Tech Stack
 
-- **Format**: Markdown / Prompt Engineering
-- **Architecture**: Tier 1/2 Single File Specification
+- **Format**: Markdown / Direct Response Sales Architecture
 - **Compatibility**: Antigravity, Claude Code, Cursor, Windsurf, Cline
