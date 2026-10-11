@@ -4,7 +4,7 @@ description: "Use when converting personalized PLR into a sales letter, VSL, or 
 category: copywriting
 triggers: [plr-to-sales-page, sales-letter-rewrite, vsl-from-plr, landing-page-plr, offer-converter-plr]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
