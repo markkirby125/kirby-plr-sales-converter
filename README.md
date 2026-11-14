@@ -10,9 +10,9 @@ Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigrav
 
 ```markdown
 @agent Please install the kirby-plr-sales-converter skill into this workspace.
-1. Read the `SKILL.md` file from this repository: https://github.com/markkirby125/kirby-plr-sales-converter
+1. Read the `SKILL.md` file (and `references/` directory) from this repository: https://github.com/markkirby125/kirby-plr-sales-converter
 2. Identify the correct rules system for our current environment (e.g., `.cursor/rules/` for Cursor, `.windsurfrules` for Windsurf, `.clinerules` for Cline, or `~/.agents/skills/` for Antigravity).
-3. Save the contents appropriately.
+3. Save the contents appropriately, preserving the multi-file dispatcher structure.
 4. Confirm when the installation is complete.
 ```
 
